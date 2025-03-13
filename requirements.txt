@@ -5,4 +5,4 @@ plotly
 fastapi
 uvicorn
 transformers
-sqlite3
+pydantic
